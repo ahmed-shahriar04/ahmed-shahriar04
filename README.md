@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there! I'm a passionate web developer who loves building interactive and visually appealing web applications. I'm always eager to learn and grow through new challenges and collaborations:<br>🔭 I’m currently working on a personal project, a portfolio website, and web-apps<br>👯 I’m looking to collaborate on frontend projects using HTML, CSS, and JavaScript<br>🤝 I’m looking for help with UI design and improving my coding skills<br>🌱 I’m currently learning React.js<br>💬 Ask me about web development or my personal projects<br>⚡ Fun fact: I can code in the dark
+# 💫 Assalamu Alaikum 👋, I'm Shahriar Ahmed Riaz
+I'm a passionate web developer who loves building interactive and visually appealing web applications. I'm always eager to learn and grow through new challenges and collaborations:<br>🔭 I’m currently working on a personal project, a portfolio website, and web-apps<br>👯 I’m looking to collaborate on frontend projects using HTML, CSS, and JavaScript<br>🤝 I’m looking for help with UI design and improving my coding skills<br>🌱 I’m currently learning React.js<br>💬 Ask me about web development or my personal projects<br>⚡ Fun fact: I can code in the dark
 
 
 ## 🌐 Socials:
@@ -11,6 +11,10 @@ Hi there! I'm a passionate web developer who loves building interactive and visu
 ![](https://github-readme-stats.vercel.app/api?username=ahmed-shahriar04&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ahmed-shahriar04&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-shahriar04&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahmed-shahriar04&theme=radical&no-frame=false&no-bg=false&margin-w=4)
